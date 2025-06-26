@@ -1,8 +1,3 @@
-Here's a well-structured and professional `README.md` content in English for your GitHub repository `https://github.com/MasHunterOfficial/fb`, explaining **usage**, **features**, and **setup instructions** in a clean, developer-friendly format:
-
----
-
-````markdown
 # 📥 Facebook Video & Audio Downloader Tool (Termux Version)
 
 A powerful and user-friendly terminal-based tool for downloading videos, audio, and metadata from Facebook using `yt-dlp`. This tool is optimized for **Termux** and includes interactive features, support for multi-links, and filename sanitization to avoid long filename errors.
