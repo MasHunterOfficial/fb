@@ -22,12 +22,22 @@ A powerful and user-friendly terminal-based tool for downloading videos, audio, 
 
 ```bash
 pkg update && pkg install python git ffmpeg yt-dlp -y
+```
+```bash
 git clone https://github.com/MasHunterOfficial/fb
 cd fb
 chmod +x fb.py
 mv fb.py fb
+```
+for Termux 
+```
 mv fb /data/data/com.termux/files/usr/bin/
 ````
+or 
+
+```
+mv fb /usr/local/bin/
+```
 
 ### ✅ Usage
 
@@ -102,5 +112,3 @@ hd+1029575365767579a
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-```
